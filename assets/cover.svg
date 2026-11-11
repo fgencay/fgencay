@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-labelledby="title">
-  <title id="title">Feyza'nın çalışma masası: kod, mobil uygulamalar ve oyunlar</title>
+  <title id="title">Feyza's workspace: code, mobile apps, and games</title>
   <rect width="900" height="240" rx="18" fill="#182c32"/>
   <g font-family="Verdana, sans-serif">
     <text x="48" y="57" fill="#a5e4d4" font-size="18" letter-spacing="2">FG / DEV LOG</text>
     <text x="44" y="151" fill="#fff3d9" font-size="82" font-weight="bold">Feyza<tspan fill="#ffa998">.</tspan></text>
-    <text x="49" y="198" fill="#d7e5e0" font-size="22">Mobil · Backend · Oyun</text>
+    <text x="49" y="198" fill="#d7e5e0" font-size="22">Mobile · Backend · Games</text>
   </g>
   <g stroke="#182c32" stroke-width="3" stroke-linejoin="round">
     <rect x="568" y="32" width="265" height="173" rx="10" fill="#f5e8cd"/>

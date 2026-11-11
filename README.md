@@ -1,28 +1,29 @@
-<img src="./assets/cover.svg" width="100%" alt="Feyza · Mobil, backend ve oyun geliştirme">
+<img src="./assets/cover.svg" width="100%" alt="Feyza · Mobile, backend, and game development">
 
-## 👋 Merhaba, ben Feyza!
+## 👋 Hi, I'm Feyza!
 
-Mobil uygulamalar ve bu uygulamaları besleyen servisler geliştiren bir yazılımcıyım. Flutter ve Dart ile arayüzler tasarlıyor, Python ve FastAPI ile bu arayüzlerin arkasındaki servisleri yazıyorum. Bir fikrin hem kullanıcıya görünen yüzünü hem de arka planda nasıl çalıştığını kurgulamak işin en sevdiğim yanı.
+I'm a software developer who builds mobile apps and the services behind them. I use Flutter and Dart for interfaces, and Python and FastAPI for APIs. My favorite part is working on both sides of a feature, from what happens on screen to what happens on the server.
 
-<a href="https://www.linkedin.com/in/feyzagncy/"><img src="./assets/linkedin.svg" width="144" height="36" alt="Feyza ile LinkedIn'de bağlantı kur"></a>
-<a href="mailto:feyzagencay5@gmail.com"><img src="./assets/email.svg" width="252" height="36" alt="E-posta gönder: feyzagencay5@gmail.com"></a>
+<a href="https://www.linkedin.com/in/feyzagncy/"><img src="./assets/linkedin.svg" width="144" height="36" alt="Connect with me on LinkedIn"></a>
 
-## 🧰 Araç kutum
+📧 [feyzagencay5@gmail.com](mailto:feyzagencay5@gmail.com)
 
-| Kod yazarken | Uygulamaya dönüştürürken |
+## 🧰 My toolbox
+
+| Language | What I build with it |
 | :--- | :--- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dart/dart-original.svg" width="22" alt=""> **Dart** | Flutter ile mobil arayüzler, Flame ile oyun sahneleri |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="22" alt=""> **Python** | FastAPI ile mobil uygulama ve tarayıcı eklentilerine servisler |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" width="22" alt=""> **C#** | Windows Forms ile masaüstü uygulamaları |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="22" alt=""> **SQL** | SQL Server ile kayıt, sorgulama ve raporlama |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dart/dart-original.svg" width="22" alt=""> **Dart** | Mobile interfaces with Flutter and games with Flame |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="22" alt=""> **Python** | FastAPI services for mobile apps and browser extensions |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" width="22" alt=""> **C#** | Desktop applications with Windows Forms |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="22" alt=""> **SQL** | Queries and reports for SQL Server databases |
 
-## 🕹️ Proje seç
+## 🕹️ Pick a project
 
-**[🎬 Öğrenci Video Asistanı](https://github.com/fgencay/AI-YouTube-Learning-Assistant)** · Python, FastAPI, Flutter  
-Bir ders videosundan not ve mini test üretir. Analizi Chrome eklentisinden başlatıp sonuçları mobil uygulamada görebilirsin.
+**[🎬 YouTube Learning Assistant](https://github.com/fgencay/AI-YouTube-Learning-Assistant)** · Python, FastAPI, Flutter<br>
+Turn a video lesson into study notes and a short quiz. Start the analysis in the Chrome extension, then open the mobile app to review the results.
 
-**[🐾 Sanal Evcil Hayvan](https://github.com/fgencay/pou_game)** · Dart, Flutter, Flame  
-Karakterini seç, mutfağa geç ve yemeğini sürükleyerek ver. Tetris’te temizlediğin satırlar, evcil hayvanının bakımında harcayabileceğin coin’lere dönüşür.
+**[🐾 Virtual Pet](https://github.com/fgencay/pou_game)** · Dart, Flutter, Flame<br>
+Pick a pet, visit the kitchen, and drag a snack over to feed it. Each line you clear in Tetris earns coins you can spend on food.
 
-**[🗝️ Pansiyon Yönetim Sistemi](https://github.com/fgencay/pansiyonv3)** · C#, Windows Forms, SQL Server  
-Dokuz odalı bir pansiyonun resepsiyon ve kasa işlemlerini bir araya getirir: oda seçimi, konaklama ücretinin hesaplanması ve gelir-gider takibi.
+**[🗝️ Guesthouse Management System](https://github.com/fgencay/pansiyonv3)** · C#, Windows Forms, SQL Server<br>
+A desktop app for a nine-room guesthouse. Reception staff can find a vacant room, calculate the cost of a stay, and track income and expenses.
