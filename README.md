@@ -2,9 +2,10 @@
 
 ## 👋 Merhaba, ben Feyza!
 
-Bir gün YouTube’daki bir dersi kısa notlara dönüştüren bir asistan, başka bir gün Tetris oynayarak besleyebildiğin bir sanal evcil hayvan geliştiriyorum. Burada mobil uygulamalarımı, Python ile yazdığım servisleri ve C# masaüstü projelerimi bulabilirsin.
+Mobil uygulamalar ve bu uygulamaları besleyen servisler geliştiren bir yazılımcıyım. Flutter ve Dart ile arayüzler tasarlıyor, Python ve FastAPI ile bu arayüzlerin arkasındaki servisleri yazıyorum. Bir fikrin hem kullanıcıya görünen yüzünü hem de arka planda nasıl çalıştığını kurgulamak işin en sevdiğim yanı.
 
 <a href="https://www.linkedin.com/in/feyzagncy/"><img src="./assets/linkedin.svg" width="144" height="36" alt="Feyza ile LinkedIn'de bağlantı kur"></a>
+<a href="mailto:feyzagencay5@gmail.com"><img src="./assets/email.svg" width="252" height="36" alt="E-posta gönder: feyzagencay5@gmail.com"></a>
 
 ## 🧰 Araç kutum
 
